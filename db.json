@@ -1,0 +1,40 @@
+{
+    "users": {
+        "1258594598": {
+            "first_name": "Diyorbek"
+        },
+        "6949813355": {
+            "first_name": "Fayzullayevv"
+        },
+        "5084553945": {
+            "first_name": "_ozodbekh_"
+        },
+        "6583283938": {
+            "first_name": "\u0410\u0431\u0434\u0443\u0436\u0430\u043b\u043e\u043b"
+        },
+        "8153082299": {
+            "first_name": "\ud835\udc0e\u2018\ud835\udc25\ud835\udc26\ud835\udc1a\ud835\udc2c\ud835\udc1b\ud835\udc1e\ud835\udc24 \ud835\udc10\ud835\udc28\u2018\ud835\udc2c\ud835\udc21\ud835\udc2a\ud835\udc2e\ud835\udc25\ud835\udc28\ud835\udc2f \uf8ff"
+        },
+        "7734282103": {
+            "first_name": "\u0411\u0435\u0440\u0434\u0438\u043c\u0443\u0440\u043e\u0434\u043e\u0432.\u041d \ud83e\uddd1\u200d\ud83c\udf93"
+        },
+        "8442022598": {
+            "first_name": "Bobur"
+        },
+        "6345124148": {
+            "first_name": "Laziz"
+        }
+    },
+    "smartphones": {
+        "1": {
+            "brand": "Apple",
+            "model": "iPhone XS",
+            "price": "$150",
+            "ram": 64,
+            "color": "Black",
+            "power": "93",
+            "docs": true,
+            "image": "https://frankfurt.apollo.olxcdn.com/v1/files/nw15vl5qc2wn2-UZ/image"
+        }
+    }
+}
